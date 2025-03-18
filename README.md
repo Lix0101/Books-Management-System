@@ -7,3 +7,7 @@ This project is developed as a coursework assignment for the Database Principles
 just run 
 
     npm app.js
+If it's not work, you can delete the packge and run
+
+    npm install
+to install the packge
