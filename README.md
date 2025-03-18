@@ -7,10 +7,11 @@ This project is developed as a coursework assignment for the Database Principles
 just run 
 
     node app.js
-If it's not work, you can delete the packge and run
+If it's not work, you can delete the packge and run to install the packge
 
+
+    rm -rf node_modules package-lock.json
     npm install
-to install the packge
 
 # Running
 the project will run on the 80 port, you can surfacing the localhost:80 to achieve the website
