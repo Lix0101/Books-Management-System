@@ -6,8 +6,13 @@ This project is developed as a coursework assignment for the Database Principles
 
 just run 
 
-    npm app.js
+    node app.js
 If it's not work, you can delete the packge and run
 
     npm install
 to install the packge
+
+# Running
+the project will run on the 80 port, you can surfacing the localhost:80 to achieve the website
+<img width="1186" alt="image" src="https://github.com/user-attachments/assets/33576e32-1d62-4aec-b1d2-61226cc249c9" />
+
